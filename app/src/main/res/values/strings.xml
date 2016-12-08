@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ElegantWay</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_elegantway">Welcome to <![CDATA[<font color=#0000FF> <br>ElegantWay App <br>ElegantWay connect a car Owners and co-travellers to share  city-to-city journeys]]> </string>
+    <string name="login_fb">Login with Facebook</string>
+    <string name="choose_a_trusted">Choose a trusted member to travel with!</string>
+    <string name="trusted_member_profile_with">Trusted member profles with ratings</string>
+    <string name="verify_contact_details">Verify contacts detail</string>
+    <string name="you_can_offer_a_ride">You can offer a ride</string>
+    <string name="share_your_city_to_city">Share your city-to-city car journey with  three co-travells</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
