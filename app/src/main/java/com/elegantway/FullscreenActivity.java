@@ -41,7 +41,6 @@ public class FullscreenActivity extends AppCompatActivity {
 
     private class ScreenSlidePagerAdapter extends FragmentPagerAdapter {
         private static final int NUM_PAGES = 3;
-
         public ScreenSlidePagerAdapter(FragmentManager fm) {
             super(fm);
         }
