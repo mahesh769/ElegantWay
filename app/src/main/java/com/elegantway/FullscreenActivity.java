@@ -25,9 +25,10 @@ public class FullscreenActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        getSupportActionBar().hide();
 
         setContentView(R.layout.activity_fullscreen);
+
+        getSupportActionBar().hide();
 
         CircleIndicator indicator = (CircleIndicator) findViewById(R.id.indicator);
 
@@ -63,6 +64,7 @@ public class FullscreenActivity extends AppCompatActivity {
 
         @Override
         public int getCount() {
+
             return NUM_PAGES;
         }
     }
